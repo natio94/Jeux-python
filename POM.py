@@ -26,7 +26,7 @@ while n=="o":
     essais+=1
 #Si "t" est egale a p alors le joueur a gagne et "Bravo !!!!" s'affiche
     if int(t)==p:
-#si le nombre d'essais est inferieur a l'ancien record, le nombre d'essais sera stockee dans la variable "record" et deviendra le nouveau record  
+#si le nombre d'essais est inferieur a l'ancien record, le nombre d'essais sera stockee dans la variable "record" et deviendra le nouveau record
       if record>essais:
         record=essais
         print("Bravo !!!!")
