@@ -1,4 +1,3 @@
-from os import *
 # from ti_system import *
 erreur = 0
 mot = ""
